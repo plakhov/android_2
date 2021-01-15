@@ -10,7 +10,6 @@ public class Main {
             System.out.println();
             for (int j = 0; j < a[i].length; j++) {
                 System.out.print(a[i][j]+" ");
-                a[i][j] = "asdasda";
             }
         }
 
